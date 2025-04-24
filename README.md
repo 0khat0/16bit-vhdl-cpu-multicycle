@@ -1,4 +1,4 @@
-# 16bit-vhdl-cpu-multicycle# 16-Bit VHDL CPU – ENGG 3380 Project
+# 16-Bit VHDL CPU – ENGG 3380 Project
 
 This project is a 16-bit multi-component CPU built in VHDL as part of ENGG 3380. The CPU is composed of modular arithmetic, control, memory, and routing units. It supports basic arithmetic, memory I/O, and control flow operations including BNE and JMP.
 
